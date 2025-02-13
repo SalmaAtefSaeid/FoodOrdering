@@ -21,4 +21,4 @@ Technologies used in the project:
 *   Swift
 *   SwiftUI
 *   Combine
-*   Asynchronous Image Loading
+*   Swift Concurrency
